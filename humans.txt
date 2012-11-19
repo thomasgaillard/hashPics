@@ -1,0 +1,17 @@
+/* TEAM */
+	Author: Thomas Gaillard
+	Contact: hello@thomasgaillard.com
+	Twitter: @thomasgaillard
+	From: Annecy, France
+
+/* THANKS */
+	Teacher: Luc Damas
+	Twitter: @luc_damas
+	From: Annecy, France
+
+/* SITE */
+	Language: English
+	Standards: HTML5, CSS3
+	Components: HTML5BP, Twitter Bootstrap, Modernizr, jQuery, Masonry & LightBox jQuery plugin
+	Software: Espresso, Photoshop
+	Last update: 2012/11
